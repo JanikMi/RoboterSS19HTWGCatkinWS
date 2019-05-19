@@ -1,0 +1,8 @@
+prefix=/home/janik/catkin_ws/devel/.private/turtlebot_highlevel_controller
+
+Name: turtlebot_highlevel_controller
+Description: Description of turtlebot_highlevel_controller
+Version: 0.0.0
+Cflags: -I/home/janik/catkin_ws/src/turtlebot_highlevel_controller/include
+Libs: -L/home/janik/catkin_ws/devel/.private/turtlebot_highlevel_controller/lib -lturtlebot_highlevel_controller_core
+Requires: roscpp sensor_msgs geometry_msgs

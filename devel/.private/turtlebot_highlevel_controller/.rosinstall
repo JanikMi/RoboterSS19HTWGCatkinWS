@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/janik/catkin_ws/devel/.private/turtlebot_highlevel_controller/setup.sh

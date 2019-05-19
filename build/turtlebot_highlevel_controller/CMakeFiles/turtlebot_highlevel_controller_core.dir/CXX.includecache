@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/janik/catkin_ws/src/turtlebot_highlevel_controller/include/turtlebot_highlevel_controller/Algorithm.hpp
+
+/home/janik/catkin_ws/src/turtlebot_highlevel_controller/src/Algorithm.cpp
+/home/janik/catkin_ws/src/turtlebot_highlevel_controller/include/turtlebot_highlevel_controller/Algorithm.hpp
+-
+
